@@ -24,3 +24,5 @@ The dataset contains historical car auction sales prices, scraped from the outsi
 (https://www.kaggle.com/tunguz/used-car-auction-prices).
 
 This dataset contains 491641 rows and 15 columns.
+
+Click [here](https://github.com/mzahidh/Car-Auction-Prices-Project/blob/master/Car%20Auction%20Prices%20Project.ipynb) to see full code, explanation, and insight for this personal project. 
