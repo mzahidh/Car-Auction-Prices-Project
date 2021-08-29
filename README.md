@@ -1,6 +1,11 @@
 # Car Auction Prices Project
 EDA and Machine Learning Modelling Using Python
 
+The dataset contains historical car auction sales prices, scraped from the outside internet sources collected in 2015. This dataset taken from kaggle
+(https://www.kaggle.com/tunguz/used-car-auction-prices).
+
+This dataset contains 491641 rows and 15 columns.
+
 In this project, there are 4 steps that I do:
 
 **1. Data Preparation (Data Cleaning)**
@@ -20,9 +25,6 @@ In this project, there are 4 steps that I do:
   
 **4. Hypothesis Testing using MannWhitneyU**
 
-The dataset contains historical car auction sales prices, scraped from the outside internet sources collected in 2015. This dataset taken from kaggle
-(https://www.kaggle.com/tunguz/used-car-auction-prices).
-
-This dataset contains 491641 rows and 15 columns.
+--
 
 Click [here](https://github.com/mzahidh/Car-Auction-Prices-Project/blob/master/Car%20Auction%20Prices%20Project.ipynb) to see full code, explanation, and insight for this personal project. 
